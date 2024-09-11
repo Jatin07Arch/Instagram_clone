@@ -1,0 +1,5 @@
+{
+    "java.compile.nullAnalysis.mode": "automatic",
+    "cmake.sourceDirectory": "D:/Flutter/instagram_login_ui/windows/flutter",
+    "java.configuration.updateBuildConfiguration": "interactive"
+}

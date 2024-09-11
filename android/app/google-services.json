@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "722820386681",
+    "project_id": "insta-auth-163a5",
+    "storage_bucket": "insta-auth-163a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722820386681:android:ba417440c1ebce7bae29a8",
+        "android_client_info": {
+          "package_name": "com.example.instagram_login_ui"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4iPoZPSHwkoAus6PymLWnG-g-bDHfzNU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
